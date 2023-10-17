@@ -4,7 +4,7 @@ Instalar symphony
 Instalar xampp
 Instalar composer
 Instalar git
-abrir cmd y cambiar directorio al del proyecto 
+abrir cmd y cambiar directorio al del proyecto (originalmente se instalo en la ruta C:/xampp/htdocs/test)
 abrir xampp e iniciar apache y mysql
 Iniciar servidor con
 symfony server:start
